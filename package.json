@@ -1,0 +1,8 @@
+{
+  "name": "upsc-zone-ai-study-mentor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "UPSC ZONE AI static study website with optional secure AI tutor backend",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"}
+}
